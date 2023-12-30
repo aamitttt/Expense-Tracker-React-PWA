@@ -1,0 +1,49 @@
+
+{
+  
+    "name": "Expense Tracker",
+    "short_name": "Expense Tracker",
+    "theme_color": "#141516",
+    "background_color": "#969ba0",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "prefer_related_applications": true,
+  
+
+    "icons": [
+      {
+        "src": "maskable.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "logo192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "logo256.png",
+        "type": "image/png",
+        "sizes": "256x256",
+        "purpose": "maskable"
+      },
+      {
+        "src": "logo384.png",
+        "type": "image/png",
+        "sizes": "384x384",
+        "purpose": "maskable"
+      },
+      {
+        "src": "logo512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+        
+      }
+    ]
+  
+
+}
